@@ -1,0 +1,88 @@
+body
+{
+    background-image: url(image/mybackground.jpg);
+background-color: burlywood;
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+h1
+{
+font-family: "Press Start 2P" ,"consolas" ,"sans-serif";
+    border-top-style:dotted ;
+    border-bottom-style:outset;
+    border-left-style:dashed;
+    border-right-style: solid;
+    border-color: brown;
+color:green;
+text-align: center;
+}
+p
+{
+    font-family: "consolas", "sans-serif" ;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    background: linear-gradient(to left ,black,rgb(2, 0, 128));
+background-color: brown;
+border-style: groove;
+border-width: 5px;
+border-radius:10px;
+border-color : aqua;
+color :#8a2be2;
+padding: 5px;
+}
+#p1
+{
+    color:darkgoldenrod;
+    text-decoration: rgb(46, 214, 12) dotted underline;
+}
+.odd
+{
+    color: coral;
+}
+.even
+{
+
+    color:crimson;
+}
+#p11
+{
+    color: darkgreen;
+}
+.box
+{
+border : 5px solid ;
+width: 250px;
+height: 250px;
+text-align: center;
+font-size: 22px;
+background-color:tomato;
+border-radius: 7px;
+margin-bottom: 50px;
+margin-left: 50px;
+background-position-x: center
+}
+
+#i1
+{
+    float: left;
+}
+#p20
+{
+border-radius: 5px;
+color: black;
+clear:both;
+}
+#p21
+{
+    border-radius: 5px;
+    color: black;
+    
+}
+#p22
+{
+        border-radius: 5px;
+        color: black;
+}
